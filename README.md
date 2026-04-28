@@ -13,8 +13,8 @@ This project implements a multimodal machine learning model to predict flood ris
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Lahari-dot/flood-prediction-project.git
-   cd flood-prediction-project
+   git clone https://github.com/Lahari-dot/Flood-risk-prediction.git
+   cd Flood-risk-prediction
    ```
 
 2. **Create a virtual environment (optional but recommended):**
